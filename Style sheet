@@ -1,0 +1,30 @@
+h1 {
+ background-color: limegreen;
+ color: #000;
+ font-family: "Bitstream Vera Sans", "Helvetica", "Arial", sans-serif;
+ border-style: ridge;
+ border-width: 1px;
+ border-color:black
+}
+h2 {
+ background-color: limegreen;
+ color: #000;
+ font-family: "Bitstream Vera Sans", "Helvetica", "Arial", sans-serif;
+ border-style: inset;
+}
+body {
+  color: white;
+  background-color: mediumblue;
+  margin: 2em;
+  font-family: "Bitstream Vera Sans", "Helvetica", "Arial", sans-serif;
+  
+}
+ol {
+ list-style-type: upper-alpha;
+  color: #000;
+}
+a:link {
+
+		color: white;
+		font-weight: bold;
+		}
